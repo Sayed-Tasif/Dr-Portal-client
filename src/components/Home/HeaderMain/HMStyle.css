@@ -1,0 +1,7 @@
+.btnGrd{
+    background-image: linear-gradient(to right, #19d3af, #0fcfea);
+    color: white;
+}
+.btn:hover{
+    color: white;
+}
