@@ -1,0 +1,12 @@
+.appointmentBody{
+    margin-top: 600px;
+    height: 400px;
+    background: url(../../../imgs/chairBG.png) rgba(64, 72, 92, 1);
+    background-blend-mode: multiply;
+    background-size:cover;
+
+}
+.appointmentBody img{
+    height: 550px;
+    transform: translate(-70px,-150px);
+}

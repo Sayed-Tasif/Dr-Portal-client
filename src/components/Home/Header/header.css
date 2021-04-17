@@ -1,4 +1,5 @@
 .backgroundDecor{
+    margin-bottom: 150px;
     height: 600px;
     background: linear-gradient(-90deg, #3a4256 30%, rgba(0, 0, 0, 0) 30%), url('../../../imgs/chairBG.png');
     background-size: contain;
