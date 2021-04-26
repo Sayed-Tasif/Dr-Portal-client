@@ -1,0 +1,7 @@
+.tImgStyle img{
+    opacity: 0.3;
+    width:  65%;
+}
+.upperCol{
+    column-gap: 250px;
+}

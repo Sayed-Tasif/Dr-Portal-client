@@ -3,6 +3,7 @@ import React from 'react';
 import './infocard.css'
 
 const InfoCard = ({ info }) => {
+    
     return (
         <div className='col-md-4 info-card'>
             <div className= {`d-flex mb-5 align-items-center justify-content-center info-container info-${info.background}`}>
