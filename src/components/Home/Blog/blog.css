@@ -4,8 +4,6 @@
     url('../../../imgs/quote.png');
     background-position:right;
     background-clip:content-box;
-    width: 400px;
-    height: 450px;
     background-size: cover, 70%;
     background-repeat: no-repeat;
     border-radius: 5px;
