@@ -1,5 +1,6 @@
 import React from 'react';
 import AppointmentBody from '../AppointmentBody/AppointmentBody';
+import Blog from '../Blog/Blog';
 import FeedbackCard from '../FeedbackCard/FeedbackCard';
 import FeedbackInfo from '../FeedbackInfo/FeedbackInfo';
 import Header from '../Header/Header';
@@ -15,6 +16,7 @@ const Home = () => {
             <Testimonial></Testimonial>
             <FeedbackInfo></FeedbackInfo>
             <FeedbackCard></FeedbackCard>
+            <Blog></Blog>
         </div>
     );
 };

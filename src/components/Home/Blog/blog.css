@@ -1,0 +1,12 @@
+.slide1{
+    background-image:
+    linear-gradient(to right, rgba(25, 211, 177, 0.75) 30%, rgba(17, 208, 225, 0.50) 70%),
+    url('../../../imgs/quote.png');
+    background-position:right;
+    background-clip:content-box;
+    width: 400px;
+    height: 450px;
+    background-size: cover, 70%;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
