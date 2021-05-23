@@ -36,6 +36,8 @@ const BookAppointment = ({date}) => {
     return (
         <section>
             <h2 className='text-center' style={{color: '#0fcfea'}}>Available Appointment on {date.toDateString()}</h2>
+            <br/>
+            <br/>
             <div className="row">
                 {
                     bookingData.map(booking => <BookingCard key={booking.id} booking = {booking} date={date}></BookingCard>)

@@ -16,7 +16,7 @@ const BookingCard = ({booking, date}) => {
 
             <div className='card p-3'>
                 <div className='card-body text-center'>
-                    <h5 className='card-title text-brand' style={{}}>{booking.service}</h5>
+                    <h5 className='card-title' style={{}}>{booking.service}</h5>
                     <h6>{booking.time}</h6>
                     <p><small style={{color: '#6c757d'}}>{booking.quantity} SPACES AVAILABLE</small></p>
                     <button onClick={openModal} className='btn btnGrd text-uppercase'>Book Appointment</button>
