@@ -1,0 +1,18 @@
+.sidebar{
+    background-color: #00cfb4;
+}
+.options{
+    height: 625px;
+}
+.upperOpt a{
+    color:rgb(255, 0, 149);
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+.lowerOpt a{
+    color:rgb(255, 0, 149);
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0;
+}
